@@ -1,2 +1,2 @@
 # ttstream
-a multithreaded transformation stream
+A multithreaded transformation stream
